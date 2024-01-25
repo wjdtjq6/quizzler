@@ -1,6 +1,4 @@
-import 'dart:ffi';
 import 'package:flutter/material.dart';
-import 'package:quizzler/qeustion.dart';
 import 'package:quizzler/quiz_brain.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
